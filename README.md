@@ -37,7 +37,7 @@ Below are some commands that the bot listens to (the prefix for the bot commands
  - Syntax: .leave
 #### yt
 - Searches youtube for the passed argument string and returns the link of top search result (you can give spaces i.e. there can be multiple words).
- - Syntax: .yt <your search string>
+ - Syntax: .yt <your_search_string>
 #### extract
 - Extracts audio from the youtube link passed as an argument and saves it in you destination folder you mentioned in the code.
  - Syntax: .extract <youtube_link>
